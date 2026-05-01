@@ -25,12 +25,12 @@
 
 | Phase | Tasks | Estimated Hours |
 |---|---|---|
-| Phase 1 — Data | Raw data extraction, cleaning, CSV creation | 4–6 hrs |
-| Phase 2 — SQL | 6 analysis queries + DB Fiddle testing | 5–7 hrs |
-| Phase 3 — Excel | Pivot tables, charts, dashboard tab, scorecard | 4–5 hrs |
-| Phase 4 — Looker | 4-page dashboard build + publish | 4–6 hrs |
-| Phase 5 — Docs | GitHub upload, markdown files, README | 2–3 hrs |
-| Phase 6 — Review | QA, LinkedIn update, Kanban completion | 2–3 hrs |
+| Phase 1 -Data | Raw data extraction, cleaning, CSV creation | 4–6 hrs |
+| Phase 2 -SQL | 6 analysis queries + DB Fiddle testing | 5–7 hrs |
+| Phase 3 - Excel | Pivot tables, charts, dashboard tab, scorecard | 4–5 hrs |
+| Phase 4 - Looker | 4-page dashboard build + publish | 4–6 hrs |
+| Phase 5 - Docs | GitHub upload, markdown files, README | 2–3 hrs |
+| Phase 6 - Review | QA, LinkedIn update, Kanban completion | 2–3 hrs |
 | **TOTAL** | | **21–30 hours** |
 
 ## Value Created vs Cost
@@ -61,7 +61,7 @@
 > *"Constraints drive creativity. This project proves that structured thinking,
 > not expensive tools, is what separates a good analyst from a great one."*
 >
-> — Pavithra Panneerselvam, Project Manager & Analyst
+> - Pavithra Panneerselvam, Project Manager & Analyst
 
 ## If Budget Were Available (Future Scaling)
 
@@ -73,14 +73,14 @@
 | Snowflake | Cloud data warehouse | Pay-per-use |
 
 > **Note:** Even with budget available, this project stack would remain
-> largely free — the free tools used are industry-standard and
+> largely free - the free tools used are industry-standard and
 > production-grade in many companies.
 
 ## Key Takeaway for Recruiters
 
 This project demonstrates:
 - ✅ Ability to deliver end-to-end analytics with zero resource dependency
-- ✅ Tool selection judgement — right tool for right job
+- ✅ Tool selection judgement - right tool for right job
 - ✅ Cost-conscious project management mindset
 - ✅ Self-driven learning and execution
 
