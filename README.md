@@ -1,4 +1,4 @@
-# 📊 SwiftPay Global — Revenue Operations Analytics
+# 📊 SwiftPay Global - Revenue Operations Analytics
 
 > **A end-to-end PM + Data Analytics project simulating a real B2B SaaS revenue operations transformation.**  
 > Built to demonstrate Project Management, SQL Analysis, Dashboard Design, and Business Insight generation skills.
@@ -8,7 +8,7 @@
 ## 🏢 Company Context (Fictional)
 
 **SwiftPay Global** is a B2B cross-border payment solutions company operating across **EMEA, APAC, and LATAM** regions.  
-The company manages **388 enterprise customers** across multiple package tiers — Silver, Gold, Premium, Max, and Max Plus.
+The company manages **388 enterprise customers** across multiple package tiers - Silver, Gold, Premium, Max, and Max Plus.
 
 **My Role:** Revenue Operations Analyst & Project Manager  
 **Project Duration:** 12 Weeks (Simulated)  
@@ -82,39 +82,39 @@ swiftpay-revenue-analytics/
 
 ## 🔍 Key Findings
 
-### Finding 1 — Termination Pattern
+### Finding 1 - Termination Pattern
 - **~15% of 388 customers** are Non-active (Package Terminated)
 - Top 3 termination reasons:
-  - `AH not responding + no FFT` — most common, preventable
-  - `Block by Risk team` — systemic issue
-  - `Handover between BDs` — internal process gap
+  - `AH not responding + no FFT` - most common, preventable
+  - `Block by Risk team` - systemic issue
+  - `Handover between BDs` - internal process gap
 
-### Finding 2 — Regional Risk Profile
+### Finding 2 - Regional Risk Profile
 
 | Region | Active % | Risk Level |
 |---|---|---|
-| EMEA | ~83% | 🔴 High — highest termination volume |
-| APAC | ~91% | 🟡 Medium — newer, collection gaps |
-| LATAM | ~87% | 🟡 Medium — seasonal churn signals |
+| EMEA | ~83% | 🔴 High - highest termination volume |
+| APAC | ~91% | 🟡 Medium - newer, collection gaps |
+| LATAM | ~87% | 🟡 Medium - seasonal churn signals |
 
-### Finding 3 — Collection Leakage
+### Finding 3 - Collection Leakage
 - Pattern: **2 consecutive failed collections → termination**
 - No early warning trigger exists currently
 - Intervention at **1st failure** could prevent majority of churn
 
-### Finding 4 — Handover Gap
-- Multiple customers stuck at **"Ready for handover"** — never completed
+### Finding 4 - Handover Gap
+- Multiple customers stuck at **"Ready for handover"** - never completed
 - Average delay: **untracked** (no SLA defined)
 - Each delayed day = active churn risk window
 
-### Finding 5 — Package Revenue Concentration Risk
+### Finding 5 - Package Revenue Concentration Risk
 - **Max Plus** = highest revenue per customer, lowest volume → fragile
 - **Gold tier** = highest volume, mid revenue → most stable
 - **Silver tier** = low revenue + early churn signals → watch list
 
 
 
-## 💡 Recommendations — 3-Point Revenue Protection Plan
+## 💡 Recommendations - 3-Point Revenue Protection Plan
 
 ### 1. 🚨 Early Warning System
 > Flag any customer with **1 failed collection** immediately to CSM.  
@@ -146,12 +146,12 @@ swiftpay-revenue-analytics/
 ## 🗓️ Project Timeline (12 Weeks)
 
 ```
-Week 1-2   │ Discovery — Stakeholder interviews, data audit, baseline metrics
-Week 3-4   │ Analysis — SQL queries, root cause analysis
-Week 5-6   │ Insight Generation — Collection trends, rep benchmarking
-Week 7-8   │ Dashboard Build — Looker Studio, Excel scorecard
-Week 9-10  │ Recommendations — Early warning system, SLA policy design
-Week 11-12 │ Presentation — Executive deck, ROI projection, roadmap
+Week 1-2   │ Discovery - Stakeholder interviews, data audit, baseline metrics
+Week 3-4   │ Analysis - SQL queries, root cause analysis
+Week 5-6   │ Insight Generation - Collection trends, rep benchmarking
+Week 7-8   │ Dashboard Build - Looker Studio, Excel scorecard
+Week 9-10  │ Recommendations - Early warning system, SLA policy design
+Week 11-12 │ Presentation - Executive deck, ROI projection, roadmap
 ```
 
 
@@ -168,12 +168,12 @@ Week 11-12 │ Presentation — Executive deck, ROI projection, roadmap
 ## 📈 Skills Demonstrated
 
 - ✅ Project Management (Charter, RACI, Risk Register, Timeline)
-- ✅ SQL — Window functions, CTEs, aggregations, trend analysis
-- ✅ Data Cleaning — Standardisation, null handling, currency normalisation
-- ✅ Business Analysis — Root cause analysis, KPI framework design
-- ✅ Dashboard Design — Looker Studio, Excel pivot
-- ✅ Stakeholder Communication — Executive summary, recommendations deck
-- ✅ GitHub — Version control, structured documentation
+- ✅ SQL - Window functions, CTEs, aggregations, trend analysis
+- ✅ Data Cleaning - Standardisation, null handling, currency normalisation
+- ✅ Business Analysis - Root cause analysis, KPI framework design
+- ✅ Dashboard Design - Looker Studio, Excel pivot
+- ✅ Stakeholder Communication - Executive summary, recommendations deck
+- ✅ GitHub - Version control, structured documentation
 
 
 
@@ -184,7 +184,7 @@ Data & Insights Analyst | Revenue Operations | B2B SaaS
 📍 Coimbatore → Bangalore  
 🔗 [LinkedIn](https://www.linkedin.com/in/ps-p-322700240/) · [GitHub](https://github.com/gctian64-del)
 
-> *"This project was built using anonymised, restructured real-world B2B data to simulate a complete revenue operations analytics engagement — from project charter to executive recommendation."*
+> *"This project was built using anonymised, restructured real-world B2B data to simulate a complete revenue operations analytics engagement - from project charter to executive recommendation."*
 
 
 ## ⚠️ Disclaimer
