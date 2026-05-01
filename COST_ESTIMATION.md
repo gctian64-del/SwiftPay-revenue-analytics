@@ -1,12 +1,10 @@
-# 💰 Project Cost Estimation — SwiftPay Global Analytics
+# $ Project Cost Estimation - SwiftPay Global Analytics
 
 ## Total Project Cost: $0 USD / ₹0 INR
 
-> This project was built entirely using **free, industry-standard tools** —
+> This project was built entirely using **free, industry-standard tools** -
 > demonstrating that professional-grade analytics work requires zero budget,
 > only skill and structured thinking.
-
----
 
 ## Tool Cost Breakdown
 
@@ -20,8 +18,6 @@
 | Canva Free | Presentation design | ₹0 | ₹0 |
 | LinkedIn Free | Project + portfolio showcase | ₹0 | ₹0 |
 | **TOTAL** | | **₹0** | **₹0** |
-
----
 
 ## Time Investment Breakdown
 
@@ -37,8 +33,6 @@
 | Phase 6 — Review | QA, LinkedIn update, Kanban completion | 2–3 hrs |
 | **TOTAL** | | **21–30 hours** |
 
----
-
 ## Value Created vs Cost
 
 | What Was Built | Equivalent Market Value |
@@ -46,12 +40,10 @@
 | SQL portfolio project | Replaces ₹15,000 SQL course certificate |
 | Looker Studio live dashboard | Replaces ₹8,000 BI tool training |
 | PM-level case study with charter + RACI + risk register | Replaces ₹20,000 PMP prep materials |
-| GitHub project with version control + Kanban | Replaces paid portfolio website (₹5,000–₹10,000/yr) |
+| GitHub project with version control + Kanban | Replaces paid portfolio website (₹5,000-₹10,000/yr) |
 | Root cause analysis + executive recommendation | Replaces ₹10,000 business analysis course |
 | **Total Value Created** | **₹58,000–₹63,000 equivalent** |
 | **Actual Spend** | **₹0** |
-
----
 
 ## Tool Alternatives Considered (And Why Rejected)
 
@@ -64,16 +56,12 @@
 | Notion Pro (₹330/month) | GitHub Markdown docs | ₹3,960/year |
 | **Total Avoided Cost** | | **₹73,760+/year** |
 
----
-
 ## Budget Philosophy
 
 > *"Constraints drive creativity. This project proves that structured thinking,
 > not expensive tools, is what separates a good analyst from a great one."*
 >
 > — Pavithra Panneerselvam, Project Manager & Analyst
-
----
 
 ## If Budget Were Available (Future Scaling)
 
@@ -88,8 +76,6 @@
 > largely free — the free tools used are industry-standard and
 > production-grade in many companies.
 
----
-
 ## Key Takeaway for Recruiters
 
 This project demonstrates:
@@ -98,6 +84,5 @@ This project demonstrates:
 - ✅ Cost-conscious project management mindset
 - ✅ Self-driven learning and execution
 
----
 
 *Cost Estimation v1.0 | SwiftPay Global Analytics Project | Pavithra Panneerselvam | 2026*
