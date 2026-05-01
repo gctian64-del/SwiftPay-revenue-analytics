@@ -1,4 +1,4 @@
-# 📖 Data Dictionary — SwiftPay Global
+# 📖 Data Dictionary - SwiftPay Global
 
 ## Table: swiftpay_customers
 
@@ -34,7 +34,6 @@
 | termination_month | VARCHAR | Month of termination if applicable | 3.2026, 10.2025 |
 | termination_reason | VARCHAR | Reason for package termination | AH no responding no FFT, Block by risk, Handover btw BDs |
 
----
 
 ## Table: swiftpay_monthly_collections
 
@@ -44,20 +43,16 @@
 | month | VARCHAR | Collection month | 07.2025, 08.2025 ... 04.2026 |
 | collection_amount | DECIMAL | Amount collected that month | 0, 250, 1500 |
 
----
-
 ## Data Quality Notes
 
 | Issue | Column Affected | Fix Applied |
 |---|---|---|
-| Inconsistent region casing | region | Standardised to UPPER — EMEA, APAC, LATAM |
+| Inconsistent region casing | region | Standardised to UPPER - EMEA, APAC, LATAM |
 | Mixed Active/Non active casing | package_status | Standardised to Title Case |
 | Currency mix | currency | All amounts normalised to USD equivalent |
-| Missing termination reasons | termination_reason | Flagged as NULL — excluded from reason analysis |
+| Missing termination reasons | termination_reason | Flagged as NULL - excluded from reason analysis |
 | Scientific notation in volume | expected_monthly_volume | Converted 1E+07 → 10000000 |
 | Blank CSM manager rows | csm_manager_name | Filled NULL where handover not done |
-
----
 
 ## Package Tier Reference
 
@@ -69,6 +64,5 @@
 | Max | $1,500 | Enterprise, high transaction |
 | Max Plus | $8,000+ | Strategic accounts |
 
----
 
 *Data Dictionary v1.0 | SwiftPay Global Analytics Project | Pavithra Panneerselvam | 2026*
