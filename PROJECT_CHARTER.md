@@ -15,7 +15,7 @@
 
 ## Problem Statement
 
-SwiftPay Global manages 388 B2B customers across EMEA, APAC, and LATAM. Despite strong acquisition numbers, the company is experiencing 18–22% MRR leakage due to:
+SwiftPay Global manages 388 B2B customers across EMEA, APAC, and LATAM. Despite strong acquisition numbers, the company is experiencing 18-22% MRR leakage due to:
 
 - No early intervention on failed payment collections
 - Unstructured BD-to-CSM handover process
