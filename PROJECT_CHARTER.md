@@ -1,4 +1,4 @@
-# 📋 Project Charter — SwiftPay Global Revenue Operations Analytics
+# 📋 Project Charter - SwiftPay Global Revenue Operations Analytics
 
 ## Project Overview
 
@@ -12,7 +12,6 @@
 | **Duration** | 12 Weeks |
 | **Status** | Completed |
 
----
 
 ## Problem Statement
 
@@ -22,8 +21,6 @@ SwiftPay Global manages 388 B2B customers across EMEA, APAC, and LATAM. Despite 
 - Unstructured BD-to-CSM handover process
 - No root cause tracking for package terminations
 
----
-
 ## Objectives
 
 1. Identify and quantify revenue leakage by region and rep
@@ -31,13 +28,12 @@ SwiftPay Global manages 388 B2B customers across EMEA, APAC, and LATAM. Despite 
 3. Deliver 3 actionable recommendations to CRO
 4. Establish KPI baseline for future tracking
 
----
 
 ## Scope
 
 **In Scope:**
 - 388 customer records across all regions
-- Monthly collection data (Jul 2025 – Apr 2026)
+- Monthly collection data (Jul 2025 - Apr 2026)
 - Package tier analysis
 - Rep performance benchmarking
 - Handover SLA analysis
@@ -47,7 +43,6 @@ SwiftPay Global manages 388 B2B customers across EMEA, APAC, and LATAM. Despite 
 - Customer satisfaction / NPS
 - Marketing attribution
 
----
 
 ## RACI Matrix
 
@@ -97,7 +92,7 @@ SwiftPay Global manages 388 B2B customers across EMEA, APAC, and LATAM. Despite 
 
 | Risk | Probability | Impact | Mitigation |
 |---|---|---|---|
-| Data quality issues | High | High | Cleaning protocol — Week 1 |
+| Data quality issues | High | High | Cleaning protocol - Week 1 |
 | Rep adoption resistance | Medium | High | CSM manager buy-in first |
 | Incomplete handover records | High | Medium | Manual audit fallback |
 | Currency conversion errors | Medium | Medium | Normalise all to USD |
